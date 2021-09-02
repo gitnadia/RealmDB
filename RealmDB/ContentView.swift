@@ -2,12 +2,12 @@
 //  ContentView.swift
 //  RealmDB
 //
-//  Created by nadezda.gura on 01/09/2021.
+//  Created by nadezda.gura 
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct HomeView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
@@ -16,6 +16,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        HomeView()
     }
 }

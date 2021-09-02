@@ -2,7 +2,7 @@
 //  RealmDBApp.swift
 //  RealmDB
 //
-//  Created by nadezda.gura on 01/09/2021.
+//  Created by nadezda.gura 
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct RealmDBApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
